@@ -1,0 +1,12 @@
+#highlighted_items{position:relative; left:calc(50% - 600px); top:0px; margin-top:30px; width:1200px; height:700px; background:rgba(0,0,0,0.1);}
+
+#highlighted_items .single_high{position:absolute; left:0px; top:0px; width:calc(33.33% - 15px); height:calc(40% - 0px); background:red; display:inline-block;}
+#highlighted_items .single_high_1{left:calc(33.33% + 15px); width:calc(33.33% - 30px); height:calc(50% - 15px);}
+#highlighted_items .single_high_2{left:calc(66.66% + 15px); height:calc(60% - 30px);}
+#highlighted_items .single_high_3{top:calc(40% + 30px); height:calc(60% - 30px);}
+#highlighted_items .single_high_4{left:calc(33.33% + 15px); top:calc(50% + 15px); width:calc(33.33% - 30px); height:calc(50% - 15px);}
+#highlighted_items .single_high_5{left:calc(66.66% + 15px); top:calc(60% + 0px);}
+
+
+
+
