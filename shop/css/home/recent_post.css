@@ -1,0 +1,20 @@
+#recent_post_wrapper{position:relative; left:0px; top:0px; width:100%; background:#fff; padding-top:30px; padding-bottom:30px;}
+
+#recent_posts{position:relative; left:calc(50% - 600px); height:500px; top:0px; width:1200px; margin-top:30px;}
+
+
+#recent_posts #recent_post_image{position:absolute; left:0px; top:0px; width:500px; height:100%;}
+#recent_posts #recent_post_image #recent_post_image_img{position:absolute; transition:0.5s; left:30px; top:30px; width:calc(100% - 60px); height:calc(100% - 60px); overflow:hidden; border-radius: 50%; border:2px solid #00C6C7;}
+#recent_posts #recent_post_image #recent_post_image_img img{position:absolute; left:-100px; top:0px; right:-100px; bottom:0px; max-width:calc(100% + 200px); max-height:100%; margin:auto;}
+
+
+#recent_posts #recent_post_text{position:absolute; left:530px; top:0px; width:calc(100% - 530px); height:100%;}
+#recent_posts #recent_post_text .recent_post_header{position:relative; left:0px; top:0px; width:100%;}
+#recent_posts #recent_post_text .recent_post_header h3{font-size:24px; margin-bottom:0px;}
+#recent_posts #recent_post_text .recent_post_date{position:relative; left:0px; top:0px; width:100%; }
+#recent_posts #recent_post_text .recent_post_date p{margin-top:10px; font-size:14px; font-weight:bold;}
+#recent_posts #recent_post_text .recent_post_date p span{color:#00C6C7;}
+
+#recent_posts #recent_post_text .recent_post_desc{position:relative; text-align:justify; left:0px; top:0px; width:100%;}
+#recent_posts #recent_post_text .recent_post_desc p{font-size:15px;}
+#recent_posts #recent_post_text .recent_post_desc p span{color:#00C6C7; font-weight:bold;}

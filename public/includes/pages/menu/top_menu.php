@@ -127,10 +127,10 @@
                     <!--                    <a href="">REFERENCE</a>-->
                     <!--                </div>-->
                     <div class="menu_a_l_link">
-                        <a href="contact.php">KONTAKT</a>
+                        <a href="contact">KONTAKT</a>
                     </div>
                     <div class="menu_a_l_link">
-                        <a href="shop.php">SHOP</a>
+                        <a href="shop">SHOP</a>
                     </div>
                 </div>
             </div>

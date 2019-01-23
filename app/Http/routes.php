@@ -15,8 +15,17 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/menu/', function () {
-    return view('menu');
+Route::get('/shop/', function () {
+    return view('shop');
+});
+
+
+Route::get('contact/', function () {
+    return view('welcome');
+});
+
+Route::get('preview/', function () {
+    return view('preview_item');
 });
 
 

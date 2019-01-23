@@ -1,4 +1,5 @@
     <!-- in this file, we are going to use common head as title, meta tags and others -->
+    <meta name="viewport" content="width=device-width,initial-scale=1, user-scalable=no" />
     <link rel="shortcut icon" type="image/x-icon" href="images/logo_icon.ico"/>
 
     <!-- css includes -->

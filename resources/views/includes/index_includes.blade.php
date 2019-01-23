@@ -1,4 +1,5 @@
 <title>Dobrodošli na webshop</title>
+
 <link rel="shortcut icon" type="image/x-icon" href="images/logo_icon.ico"/>
 <!-- css includes -->
 <link rel="stylesheet" href="css/style.css">
